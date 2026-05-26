@@ -2,7 +2,7 @@
 
 Academic Pipeline is a **visual workflow editor for LLM-powered structured text processing**.
 
-**[Open App](https://academic-pipeline-gui.onrender.com)** · **[Documentation](https://xingyuanzhao-project.github.io/academic-pipeline/)** · **[HuggingFace](https://huggingface.co/spaces/xingyuanzhao/nocode-workflow)** · **[Cite this work](#citation)**
+**[Open App](https://academic-pipeline-gui.onrender.com)** · **[How it works](https://xingyuanzhao-project.github.io/nocode-workflow/quick-start/)** · **[GitHub](https://github.com/xingyuanzhao-project/nocode-workflow-public)** · **[HuggingFace](https://huggingface.co/spaces/xingyuanzhao/nocode-workflow)** · **[Cite this work](#citation)**
 
 ---
 
@@ -27,7 +27,7 @@ Built for social science researchers who need systematic, reproducible LLM codin
 5. Optionally attach a **Codebook** node to provide context and guide the LLM
 6. Connect an **Output Node** and click **Run**
 
-See the [documentation](https://xingyuanzhao-project.github.io/academic-pipeline/) for detailed usage.
+See the [documentation](https://xingyuanzhao-project.github.io/nocode-workflow/quick-start/) for detailed usage.
 
 ---
 
@@ -40,6 +40,6 @@ If you use Academic Pipeline in your research, please cite:
   author       = {Xingyuan Zhao},
   title        = {Academic Pipeline: A No-Code Application for LLM-Powered Structured Text Processing},
   year         = {2026},
-  url          = {https://github.com/xingyuanzhao-project/academic-pipeline-public}
+  url          = {https://github.com/xingyuanzhao-project/nocode-workflow-public}
 }
 ```
