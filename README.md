@@ -40,6 +40,6 @@ If you use Academic Pipeline in your research, please cite:
   author       = {Xingyuan Zhao},
   title        = {Academic Pipeline: A No-Code Application for LLM-Powered Structured Text Processing},
   year         = {2026},
-  url          = {https://github.com/xingyuanzhao-project/nocode-workflow-public}
+  url          = {https://huggingface.co/spaces/xingyuanzhao/nocode-workflow}
 }
 ```
