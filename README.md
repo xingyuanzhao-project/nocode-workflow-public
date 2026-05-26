@@ -2,7 +2,7 @@
 
 Academic Pipeline is a **visual workflow editor for LLM-powered structured text processing**.
 
-**[Open App](https://academic-pipeline-gui.onrender.com)** · **[Documentation](https://xingyuanzhao-project.github.io/academic-pipeline/)**
+**[Open App](https://academic-pipeline-gui.onrender.com)** · **[Documentation](https://xingyuanzhao-project.github.io/academic-pipeline/)** · **[HuggingFace](https://huggingface.co/spaces/xingyuanzhao/nocode-workflow)** · **[Cite this work](#citation)**
 
 ---
 
