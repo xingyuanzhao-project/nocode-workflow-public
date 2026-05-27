@@ -1,8 +1,8 @@
-# Academic Pipeline
+# No-Code Workflow
 
-Academic Pipeline is a **visual workflow editor for LLM-powered structured text processing**.
+No-Code Workflow is a **visual workflow editor for LLM-powered structured text processing**.
 
-**[Open App](https://academic-pipeline-gui.onrender.com)** · **[How it works](https://xingyuanzhao-project.github.io/nocode-workflow/quick-start/)** · **[GitHub](https://github.com/xingyuanzhao-project/nocode-workflow-public)** · **[HuggingFace](https://huggingface.co/spaces/xingyuanzhao/nocode-workflow)** · **[Cite this work](#citation)**
+**[Open App](https://nocode-workflow-gui.onrender.com)** · **[How it works](https://xingyuanzhao-project.github.io/nocode-workflow/quick-start/)** · **[GitHub](https://github.com/xingyuanzhao-project/nocode-workflow-public)** · **[HuggingFace](https://huggingface.co/spaces/xingyuanzhao/nocode-workflow)** · **[Cite this work](#citation)**
 
 ---
 
@@ -20,7 +20,7 @@ Built for social science researchers who need systematic, reproducible LLM codin
 
 ## Quick start
 
-1. Open the app at [academic-pipeline-gui.onrender.com](https://academic-pipeline-gui.onrender.com)
+1. Open the app at [nocode-workflow-gui.onrender.com](https://nocode-workflow-gui.onrender.com)
 2. Click **Input Node** — upload a file with a text column
 3. Drag a **Processor** node — write an instruction and define an output schema
 4. Drag an **LLM Call** node — select a provider and model (any OpenRouter-compatible endpoint)
@@ -33,12 +33,12 @@ See the [documentation](https://xingyuanzhao-project.github.io/nocode-workflow/q
 
 ## Citation
 
-If you use Academic Pipeline in your research, please cite:
+If you use No-Code Workflow in your research, please cite:
 
 ```bibtex
-@software{zhao2026academicpipeline,
+@software{zhao2026nocodeworkflow,
   author       = {Xingyuan Zhao},
-  title        = {Academic Pipeline: A No-Code Application for LLM-Powered Structured Text Processing},
+  title        = {No-Code Workflow: A No-Code Application for LLM-Powered Structured Text Processing},
   year         = {2026},
   url          = {https://huggingface.co/spaces/xingyuanzhao/nocode-workflow}
 }
